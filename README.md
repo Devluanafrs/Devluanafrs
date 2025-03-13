@@ -4,6 +4,21 @@
 
 Me chamo Luana Farias De Oliveira, tenho 20 anos e sou natural de Manaus, Amazonas. Atualmente, estou cursando Engenharia da computação.
 
+
+## 🚀 Conecte-se comigo  
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/luana-farias-oliveira/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://seu-site.com/curriculo.pdf">
+        <img src="https://img.shields.io/badge/Currículo-FFC107?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
+    </a>
+</p>
+
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -35,15 +50,6 @@ Me chamo Luana Farias De Oliveira, tenho 20 anos e sou natural de Manaus, Amazon
    <br/>
 
   
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p>
- 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devluanafrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Devluanafrs&layout=compact&langs_count=3&theme=radical&card_width=300)
